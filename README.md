@@ -15,5 +15,8 @@ code explores different methods to fill up the missing pixels. Using key boards 
 	'P': Pause of the rotation
 
 	Up and Down arrows can be used to fill neigbor pixels with RGB = {0, 0, 0}. 
+	
+	
+An illustration can be found: https://www.dropbox.com/l/scl/AAAmcJUaM5Ly0HgrzmExK6r3J35uyvPpFZo
 
 
